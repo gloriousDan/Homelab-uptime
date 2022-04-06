@@ -42,19 +42,19 @@
     "url": "$AVV_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "avv-abfahrten-list",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 719,
-    "timeDay": 1056,
-    "timeWeek": 774,
-    "timeMonth": 719,
-    "timeYear": 719,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 732,
+    "timeDay": 1002,
+    "timeWeek": 787,
+    "timeMonth": 732,
+    "timeYear": 732,
     "dailyMinutesDown": {
-      "2022-04-06": 0
+      "2022-04-06": 11
     }
   },
   {
