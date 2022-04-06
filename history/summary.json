@@ -42,18 +42,20 @@
     "url": "$AVV_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "avv-abfahrten-list",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 742,
-    "timeDay": 972,
-    "timeWeek": 797,
-    "timeMonth": 742,
-    "timeYear": 742,
-    "dailyMinutesDown": {}
+    "time": 739,
+    "timeDay": 915,
+    "timeWeek": 787,
+    "timeMonth": 739,
+    "timeYear": 739,
+    "dailyMinutesDown": {
+      "2022-04-06": 0
+    }
   },
   {
     "name": "Traefik personal domain",
