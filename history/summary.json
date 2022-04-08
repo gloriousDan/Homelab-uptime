@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 909,
-    "timeDay": 978,
-    "timeWeek": 827,
-    "timeMonth": 909,
-    "timeYear": 909,
+    "time": 915,
+    "timeDay": 1022,
+    "timeWeek": 836,
+    "timeMonth": 915,
+    "timeYear": 915,
     "dailyMinutesDown": {
       "2022-03-29": 2
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1075,
-    "timeDay": 1264,
-    "timeWeek": 1112,
-    "timeMonth": 1075,
-    "timeYear": 1075,
+    "time": 1095,
+    "timeDay": 1371,
+    "timeWeek": 1149,
+    "timeMonth": 1095,
+    "timeYear": 1095,
     "dailyMinutesDown": {}
   },
   {
@@ -43,16 +43,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "avv-abfahrten-list",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "98.66%",
+    "uptime": "99.86%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 779,
-    "timeDay": 975,
-    "timeWeek": 833,
-    "timeMonth": 779,
-    "timeYear": 779,
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 784,
+    "timeDay": 880,
+    "timeWeek": 857,
+    "timeMonth": 784,
+    "timeYear": 784,
     "dailyMinutesDown": {
       "2022-04-06": 19
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 556,
-    "timeDay": 585,
-    "timeWeek": 532,
-    "timeMonth": 556,
-    "timeYear": 556,
+    "time": 593,
+    "timeDay": 1041,
+    "timeWeek": 588,
+    "timeMonth": 593,
+    "timeYear": 593,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 542,
-    "timeDay": 513,
-    "timeWeek": 509,
-    "timeMonth": 542,
-    "timeYear": 542,
+    "time": 556,
+    "timeDay": 723,
+    "timeWeek": 526,
+    "timeMonth": 556,
+    "timeYear": 556,
     "dailyMinutesDown": {}
   }
 ]
