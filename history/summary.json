@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "96.14%",
-    "time": 1191,
-    "timeDay": 1469,
-    "timeWeek": 1565,
-    "timeMonth": 1445,
-    "timeYear": 1221,
+    "uptimeYear": "96.42%",
+    "time": 1192,
+    "timeDay": 2165,
+    "timeWeek": 1693,
+    "timeMonth": 1450,
+    "timeYear": 1224,
     "dailyMinutesDown": {
       "2023-12-20": 63,
       "2023-12-05": 34,
@@ -35,8 +35,7 @@
       "2023-01-08": 1440,
       "2023-01-07": 1440,
       "2023-01-06": 1440,
-      "2023-01-05": 1440,
-      "2023-01-04": 1440
+      "2023-01-05": 1440
     }
   },
   {
@@ -49,11 +48,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.56%",
-    "uptimeYear": "95.14%",
-    "time": 1356,
-    "timeDay": 1510,
-    "timeWeek": 1881,
-    "timeMonth": 2368,
+    "uptimeYear": "95.42%",
+    "time": 1357,
+    "timeDay": 1511,
+    "timeWeek": 1746,
+    "timeMonth": 2352,
     "timeYear": 1410,
     "dailyMinutesDown": {
       "2023-12-20": 144,
@@ -83,8 +82,7 @@
       "2023-01-08": 1440,
       "2023-01-07": 1440,
       "2023-01-06": 1440,
-      "2023-01-05": 1440,
-      "2023-01-04": 1440
+      "2023-01-05": 1440
     }
   },
   {
@@ -97,12 +95,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.20%",
-    "time": 916,
-    "timeDay": 853,
-    "timeWeek": 942,
-    "timeMonth": 846,
-    "timeYear": 936,
+    "uptimeYear": "96.47%",
+    "time": 915,
+    "timeDay": 605,
+    "timeWeek": 835,
+    "timeMonth": 822,
+    "timeYear": 935,
     "dailyMinutesDown": {
       "2023-08-05": 22,
       "2023-06-23": 132,
@@ -118,8 +116,7 @@
       "2023-01-08": 1440,
       "2023-01-07": 1440,
       "2023-01-06": 1440,
-      "2023-01-05": 1440,
-      "2023-01-04": 1440
+      "2023-01-05": 1440
     }
   },
   {
@@ -128,18 +125,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "traefik-personal-domain",
     "status": "down",
-    "uptime": "94.81%",
+    "uptime": "94.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "36.89%",
+    "uptimeMonth": "33.60%",
     "uptimeYear": "90.94%",
     "time": 838,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 932,
+    "timeMonth": 890,
     "timeYear": 887,
     "dailyMinutesDown": {
-      "2024-01-03": 28,
+      "2024-01-04": 28,
+      "2024-01-03": 1440,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
@@ -175,8 +173,7 @@
       "2023-01-08": 1440,
       "2023-01-07": 1440,
       "2023-01-06": 1440,
-      "2023-01-05": 1440,
-      "2023-01-04": 1440
+      "2023-01-05": 1440
     }
   },
   {
@@ -185,18 +182,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "traefik",
     "status": "down",
-    "uptime": "94.80%",
+    "uptime": "94.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "36.89%",
+    "uptimeMonth": "33.60%",
     "uptimeYear": "90.93%",
-    "time": 743,
+    "time": 744,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 778,
+    "timeMonth": 730,
     "timeYear": 751,
     "dailyMinutesDown": {
-      "2024-01-03": 28,
+      "2024-01-04": 28,
+      "2024-01-03": 1440,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
@@ -232,8 +230,7 @@
       "2023-01-08": 1440,
       "2023-01-07": 1440,
       "2023-01-06": 1440,
-      "2023-01-05": 1440,
-      "2023-01-04": 1440
+      "2023-01-05": 1440
     }
   }
 ]
