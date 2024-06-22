@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.54%",
-    "time": 1307,
-    "timeDay": 1712,
-    "timeWeek": 1532,
-    "timeMonth": 1590,
-    "timeYear": 1335,
+    "time": 1308,
+    "timeDay": 1558,
+    "timeWeek": 1506,
+    "timeMonth": 1601,
+    "timeYear": 1336,
     "dailyMinutesDown": {
       "2024-05-27": 77,
       "2024-01-31": 135,
@@ -28,8 +28,7 @@
       "2023-11-26": 83,
       "2023-09-15": 22,
       "2023-09-06": 17,
-      "2023-08-05": 22,
-      "2023-06-23": 200
+      "2023-08-05": 22
     }
   },
   {
@@ -43,11 +42,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "98.59%",
-    "time": 1553,
-    "timeDay": 1623,
-    "timeWeek": 1736,
-    "timeMonth": 2107,
-    "timeYear": 1600,
+    "time": 1554,
+    "timeDay": 1996,
+    "timeWeek": 1801,
+    "timeMonth": 2116,
+    "timeYear": 1602,
     "dailyMinutesDown": {
       "2024-05-27": 88,
       "2024-01-31": 135,
@@ -66,8 +65,7 @@
       "2023-09-15": 22,
       "2023-09-06": 327,
       "2023-08-26": 300,
-      "2023-08-05": 22,
-      "2023-06-23": 200
+      "2023-08-05": 22
     }
   },
   {
@@ -76,18 +74,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "avv-abfahrten-list",
     "status": "down",
-    "uptime": "78.26%",
+    "uptime": "78.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "55.37%",
-    "time": 938,
+    "uptimeYear": "55.10%",
+    "time": 939,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 917,
+    "timeYear": 918,
     "dailyMinutesDown": {
-      "2024-06-21": 29,
+      "2024-06-22": 29,
+      "2024-06-21": 1440,
       "2024-06-20": 1440,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
@@ -251,8 +250,7 @@
       "2024-01-12": 1440,
       "2024-01-11": 1440,
       "2024-01-10": 1111,
-      "2023-08-05": 22,
-      "2023-06-23": 132
+      "2023-08-05": 22
     }
   },
   {
@@ -261,18 +259,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "traefik-personal-domain",
     "status": "down",
-    "uptime": "75.02%",
+    "uptime": "74.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "48.14%",
-    "time": 907,
+    "uptimeYear": "47.86%",
+    "time": 908,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 974,
+    "timeYear": 973,
     "dailyMinutesDown": {
-      "2024-06-21": 29,
+      "2024-06-22": 29,
+      "2024-06-21": 1440,
       "2024-06-20": 1440,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
@@ -464,8 +463,7 @@
       "2023-12-15": 1440,
       "2023-12-14": 258,
       "2023-09-15": 22,
-      "2023-09-06": 17,
-      "2023-06-23": 110
+      "2023-09-06": 17
     }
   },
   {
@@ -474,18 +472,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "traefik",
     "status": "down",
-    "uptime": "75.01%",
+    "uptime": "74.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "48.13%",
+    "uptimeYear": "47.85%",
     "time": 756,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 759,
     "dailyMinutesDown": {
-      "2024-06-21": 29,
+      "2024-06-22": 30,
+      "2024-06-21": 1440,
       "2024-06-20": 1440,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
@@ -677,8 +676,7 @@
       "2023-12-15": 1440,
       "2023-12-14": 258,
       "2023-09-15": 22,
-      "2023-09-06": 40,
-      "2023-06-23": 130
+      "2023-09-06": 40
     }
   }
 ]
