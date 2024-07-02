@@ -1,7 +1,7 @@
 url: $REZEPTE_URL
-status: up
-code: 200
-responseTime: 1403
-lastUpdated: 2024-07-01T23:14:02.498Z
+status: down
+code: 404
+responseTime: 2038
+lastUpdated: 2024-07-02T07:11:12.186Z
 startTime: 2022-03-29T16:20:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
