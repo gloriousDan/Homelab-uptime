@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.56%",
     "time": 1398,
-    "timeDay": 2222,
-    "timeWeek": 1805,
-    "timeMonth": 1749,
+    "timeDay": 1199,
+    "timeWeek": 1737,
+    "timeMonth": 1590,
     "timeYear": 1477,
     "dailyMinutesDown": {
       "2024-08-09": 23,
@@ -28,8 +28,7 @@
       "2024-01-12": 20,
       "2023-12-20": 63,
       "2023-12-05": 34,
-      "2023-11-26": 83,
-      "2023-09-15": 22
+      "2023-11-26": 83
     }
   },
   {
@@ -43,11 +42,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.72%",
-    "time": 1614,
-    "timeDay": 2339,
-    "timeWeek": 2041,
-    "timeMonth": 2015,
-    "timeYear": 1738,
+    "time": 1615,
+    "timeDay": 1322,
+    "timeWeek": 1863,
+    "timeMonth": 1859,
+    "timeYear": 1739,
     "dailyMinutesDown": {
       "2024-08-09": 23,
       "2024-07-18": 140,
@@ -65,8 +64,7 @@
       "2023-11-04": 1391,
       "2023-11-03": 328,
       "2023-10-14": 1293,
-      "2023-10-13": 146,
-      "2023-09-15": 22
+      "2023-10-13": 146
     }
   },
   {
@@ -75,18 +73,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "avv-abfahrten-list",
     "status": "down",
-    "uptime": "70.94%",
+    "uptime": "70.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "32.38%",
+    "uptimeYear": "32.11%",
     "time": 885,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 861,
+    "timeYear": 862,
     "dailyMinutesDown": {
-      "2024-09-13": 34,
+      "2024-09-14": 34,
+      "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
@@ -342,18 +341,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "traefik-personal-domain",
     "status": "down",
-    "uptime": "68.00%",
+    "uptime": "67.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "25.15%",
+    "uptimeYear": "24.87%",
     "time": 938,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 853,
+    "timeYear": 855,
     "dailyMinutesDown": {
-      "2024-09-13": 34,
+      "2024-09-14": 34,
+      "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
@@ -627,8 +627,7 @@
       "2023-12-17": 1440,
       "2023-12-16": 1440,
       "2023-12-15": 1440,
-      "2023-12-14": 258,
-      "2023-09-15": 22
+      "2023-12-14": 258
     }
   },
   {
@@ -637,18 +636,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "traefik",
     "status": "down",
-    "uptime": "68.00%",
+    "uptime": "67.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "25.15%",
+    "uptimeYear": "24.87%",
     "time": 748,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 791,
+    "timeYear": 792,
     "dailyMinutesDown": {
-      "2024-09-13": 34,
+      "2024-09-14": 34,
+      "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
@@ -922,8 +922,7 @@
       "2023-12-17": 1440,
       "2023-12-16": 1440,
       "2023-12-15": 1440,
-      "2023-12-14": 258,
-      "2023-09-15": 22
+      "2023-12-14": 258
     }
   }
 ]
