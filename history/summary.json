@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.82%",
-    "time": 1560,
-    "timeDay": 1242,
-    "timeWeek": 1531,
-    "timeMonth": 1437,
-    "timeYear": 1578,
+    "time": 1561,
+    "timeDay": 1247,
+    "timeWeek": 1561,
+    "timeMonth": 1415,
+    "timeYear": 1579,
     "dailyMinutesDown": {
       "2025-02-16": 820,
       "2025-02-15": 1440,
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.81%",
-    "time": 1874,
-    "timeDay": 1633,
-    "timeWeek": 1951,
-    "timeMonth": 1885,
+    "time": 1873,
+    "timeDay": 1377,
+    "timeWeek": 1944,
+    "timeMonth": 1717,
     "timeYear": 1890,
     "dailyMinutesDown": {
       "2025-02-16": 820,
@@ -81,18 +81,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "avv-abfahrten-list",
     "status": "down",
-    "uptime": "57.45%",
+    "uptime": "57.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 862,
+    "time": 858,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-12": 40,
+      "2025-04-13": 127,
+      "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
       "2025-04-09": 1440,
@@ -455,8 +456,7 @@
       "2024-04-17": 1440,
       "2024-04-16": 1440,
       "2024-04-15": 1440,
-      "2024-04-14": 1440,
-      "2024-04-13": 1440
+      "2024-04-14": 1440
     }
   },
   {
@@ -465,18 +465,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "traefik-personal-domain",
     "status": "down",
-    "uptime": "55.07%",
+    "uptime": "55.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 894,
+    "time": 880,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-12": 40,
+      "2025-04-13": 127,
+      "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
       "2025-04-09": 1440,
@@ -839,8 +840,7 @@
       "2024-04-17": 1440,
       "2024-04-16": 1440,
       "2024-04-15": 1440,
-      "2024-04-14": 1440,
-      "2024-04-13": 1440
+      "2024-04-14": 1440
     }
   },
   {
@@ -849,18 +849,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "traefik",
     "status": "down",
-    "uptime": "55.06%",
+    "uptime": "55.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 811,
+    "time": 817,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-12": 40,
+      "2025-04-13": 127,
+      "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
       "2025-04-09": 1440,
@@ -1223,8 +1224,7 @@
       "2024-04-17": 1440,
       "2024-04-16": 1440,
       "2024-04-15": 1440,
-      "2024-04-14": 1440,
-      "2024-04-13": 1440
+      "2024-04-14": 1440
     }
   }
 ]
