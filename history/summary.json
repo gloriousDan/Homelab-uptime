@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rezepte",
     "status": "down",
-    "uptime": "96.66%",
+    "uptime": "96.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "10.21%",
-    "uptimeMonth": "52.32%",
-    "uptimeYear": "92.89%",
-    "time": 1576,
+    "uptimeMonth": "49.03%",
+    "uptimeYear": "92.62%",
+    "time": 1574,
     "timeDay": 0,
     "timeWeek": 1325,
-    "timeMonth": 1263,
-    "timeYear": 1553,
+    "timeMonth": 1256,
+    "timeYear": 1552,
     "dailyMinutesDown": {
-      "2025-09-03": 38,
+      "2025-09-04": 39,
+      "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1315,
@@ -57,18 +58,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "96.25%",
+    "uptime": "96.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "9.97%",
-    "uptimeMonth": "52.26%",
-    "uptimeYear": "92.80%",
+    "uptimeMonth": "48.97%",
+    "uptimeYear": "92.52%",
     "time": 1929,
     "timeDay": 0,
     "timeWeek": 1665,
-    "timeMonth": 1835,
-    "timeYear": 1923,
+    "timeMonth": 1833,
+    "timeYear": 1922,
     "dailyMinutesDown": {
-      "2025-09-03": 38,
+      "2025-09-04": 39,
+      "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1315,
@@ -110,7 +112,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "avv-abfahrten-list",
     "status": "down",
-    "uptime": "50.85%",
+    "uptime": "50.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -121,7 +123,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-03": 38,
+      "2025-09-04": 39,
+      "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
@@ -484,8 +487,7 @@
       "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
-      "2024-09-05": 1440,
-      "2024-09-04": 1440
+      "2024-09-05": 1440
     }
   },
   {
@@ -494,7 +496,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "traefik-personal-domain",
     "status": "down",
-    "uptime": "48.74%",
+    "uptime": "48.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -505,7 +507,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-03": 38,
+      "2025-09-04": 39,
+      "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
@@ -868,8 +871,7 @@
       "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
-      "2024-09-05": 1440,
-      "2024-09-04": 1440
+      "2024-09-05": 1440
     }
   },
   {
@@ -878,7 +880,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "traefik",
     "status": "down",
-    "uptime": "48.74%",
+    "uptime": "48.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -889,7 +891,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-03": 38,
+      "2025-09-04": 39,
+      "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
@@ -1252,8 +1255,7 @@
       "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
-      "2024-09-05": 1440,
-      "2024-09-04": 1440
+      "2024-09-05": 1440
     }
   }
 ]
